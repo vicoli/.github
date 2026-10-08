@@ -23,7 +23,13 @@ More projects at [vicoli.de/projects](https://vicoli.de/projects).
 
 ## Tech we work with
 
-TypeScript · Vue.js · Nuxt · React · React Native / Expo · Node.js · Tailwind CSS · PostgreSQL · PHP · Docker · Cloudflare Workers · Vitest / Playwright
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="stack-light.svg">
+  <img alt="TypeScript, Vue.js, Nuxt, React, Node.js, Tailwind CSS, PostgreSQL, PHP, Docker, Cloudflare Workers, Vitest" src="stack-light.svg">
+</picture>
+
+React Native / Expo · Playwright
 
 ## Get in touch
 
